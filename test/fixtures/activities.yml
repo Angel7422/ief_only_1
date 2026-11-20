@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  child: one
+  title: MyString
+  description: MyText
+  activity_date: 2026-11-20
+  duration: 1
+  activity_type: MyString
+
+two:
+  child: two
+  title: MyString
+  description: MyText
+  activity_date: 2026-11-20
+  duration: 1
+  activity_type: MyString

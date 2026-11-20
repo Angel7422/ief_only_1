@@ -1,0 +1,2 @@
+module CurriculumVersionsHelper
+end

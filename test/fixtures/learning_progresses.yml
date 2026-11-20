@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  child: one
+  learning_objective: one
+  school_year: one
+  status: MyString
+  observed_on: 2026-11-20
+  comment: MyText
+
+two:
+  child: two
+  learning_objective: two
+  school_year: two
+  status: MyString
+  observed_on: 2026-11-20
+  comment: MyText

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  child: one
+  school_year: one
+  title: MyString
+  period_start: 2026-11-20
+  period_end: 2026-11-20
+  summary: MyText
+  data_snapshot: 
+
+two:
+  child: two
+  school_year: two
+  title: MyString
+  period_start: 2026-11-20
+  period_end: 2026-11-20
+  summary: MyText
+  data_snapshot: 

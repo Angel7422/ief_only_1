@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  official_reference: MyString
+  source_url: MyString
+  published_at: 2026-11-20
+  effective_from: 2026-11-20
+  effective_until: 2026-11-20
+
+two:
+  name: MyString
+  official_reference: MyString
+  source_url: MyString
+  published_at: 2026-11-20
+  effective_from: 2026-11-20
+  effective_until: 2026-11-20

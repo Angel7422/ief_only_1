@@ -1,0 +1,7 @@
+<h1>Children </h1>
+
+    <% @children.each do |child| %>
+        <%= link_to child.full_name, child_path(child) %>
+        <p> <%= child.birth_date %></p>
+        <p> <%= child.cycle %></p>
+    <% end %>

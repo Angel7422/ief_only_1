@@ -1,0 +1,6 @@
+<h1> <%= @child.full_name %></h1>
+    <p> Date de naissance : <%= @child.birth_date %></p>
+    <p> Cycle : <%= @child.cycle %></p>
+
+    <%= link_to "Retour à la liste", children_path %>
+    <%= link_to "Edit", edit_child_path(@child) %>
